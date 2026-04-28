@@ -5,6 +5,8 @@
 - Python
 
 ## Install
+rm -rf DOOM
+
 git clone https://github.com/MAHDI-143/DOOM
 
 cd DOOM
