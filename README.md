@@ -13,4 +13,4 @@ python DOOM.py
 
 
 
-![banner](Screenshot_20260428-150643.png)
+![banner](DOOM.png)
